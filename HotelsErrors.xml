@@ -27,7 +27,7 @@
   
   <Hotel>
     <Name>Arizona Biltmore</Name>
-    <Name>Arizona Biltmore Resort & Spa</Name>
+    <Name>Arizona Biltmore Resort &amp; Spa</Name>
     <Phone>602-955-6600</Phone>
     <Address NearestAirport="Sky Harbor">
       <Number>2400</Number>
