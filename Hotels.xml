@@ -4,7 +4,7 @@
   <Name>Westin</Name>
   <Phone>480-968-8885</Phone>
   <Phone>800-937-8461</Phone>
-  <Address NearestAirport="Sky Harbor">
+  <Address NearstAirport="Sky Harbor">
     <Number>11</Number>
     <Street>E 7th St</Street>
     <City>Tempe</City>
@@ -16,7 +16,7 @@
   <Hotel Rating="4.4">
     <Name>Marriott Phoenix Resort Tempe at The Buttes</Name>
     <Phone>602-225-9000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2000</Number>
       <Street>W Westcourt Way</Street>
       <City>Tempe</City>
@@ -28,7 +28,7 @@
   <Hotel>
     <Name>Hilton Garden Inn Phoenix Downtown</Name>
     <Phone>602-343-0006</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>15</Number>
       <Street>E Monroe St</Street>
       <City>Phoenix</City>
@@ -41,7 +41,7 @@
     <Name>Arizona Biltmore</Name>
     <Phone>602-955-6600</Phone>
     <Phone>800-950-0086</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2400</Number>
       <Street>E Missouri Ave</Street>
       <City>Phoenix</City>
@@ -53,7 +53,7 @@
   <Hotel Rating="3.9">
     <Name>Hyatt Place Phoenix/Mesa</Name>
     <Phone>480-969-8200</Phone>
-    <Address NearestAirport="Phoenix-Mesa Gateway">
+    <Address NearstAirport="Phoenix-Mesa Gateway">
       <Number>1422</Number>
       <Street>W Bass Pro Dr</Street>
       <City>Mesa</City>
@@ -65,7 +65,7 @@
   <Hotel>
     <Name>Hampton Inn Phoenix-Biltmore</Name>
     <Phone>602-956-5221</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2310</Number>
       <Street>E Highland Ave</Street>
       <City>Phoenix</City>
@@ -77,7 +77,7 @@
   <Hotel Rating="4.5">
     <Name>Sheraton Grand at Wild Horse Pass</Name>
     <Phone>602-225-0100</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>5594</Number>
       <Street>W Wild Horse Pass Blvd</Street>
       <City>Chandler</City>
@@ -90,7 +90,7 @@
     <Name>Scottsdale Plaza Resort &amp; Villas</Name>
     <Phone>480-948-5000</Phone>
     <Phone>800-832-2025</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>7200</Number>
       <Street>N Scottsdale Rd</Street>
       <City>Scottsdale</City>
@@ -102,7 +102,7 @@
   <Hotel>
     <Name>The Camby</Name>
     <Phone>602-468-0700</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2401</Number>
       <Street>E Camelback Rd</Street>
       <City>Phoenix</City>
@@ -115,7 +115,7 @@
     <Name>JW Marriott Phoenix Desert Ridge Resort &amp; Spa</Name>
     <Phone>480-293-3600</Phone>
     <Phone>800-835-6206</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>5350</Number>
       <Street>E Marriott Dr</Street>
       <City>Phoenix</City>
@@ -127,7 +127,7 @@
   <Hotel Rating="4.4">
     <Name>Renaissance Phoenix Downtown Hotel</Name>
     <Phone>602-333-0000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>100</Number>
       <Street>N 1st St</Street>
       <City>Phoenix</City>
