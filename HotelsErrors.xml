@@ -4,7 +4,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -29,7 +29,7 @@
     <Name>Arizona Biltmore</Name>
     <Name>Arizona Biltmore Resort &amp; Spa</Name>
     <Phone>602-955-6600</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2400</Number>
       <Street>E Missouri Ave</Street>
       <City>Phoenix</City>
@@ -40,7 +40,7 @@
   
   <Hotel Rating="4.7">
     <Name>Hilton Garden Inn Phoenix Downtown</Name>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>15</Number>
       <Street>E Monroe St</Street>
       <City>Phoenix</City>
@@ -52,7 +52,7 @@
   <Hotel Rating="3.9">
     <Name>Hyatt Place Phoenix/Mesa</Name>
     <Phone>480-969-8200</Phone>
-    <Address NearestAirport="Phoenix-Mesa Gateway">
+    <Address NearstAirport="Phoenix-Mesa Gateway">
       <Number>1422</Number>
       <Street>W Bass Pro Dr
       <City>Mesa</City>
@@ -64,7 +64,7 @@
   <Hotel>
     <Name>Hampton Inn Phoenix-Biltmore</Name>
     <Phone>602-957-9720</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>2310</Number>
       <Street>E Highland Ave</Street>
       <City>Phoenix</City>
